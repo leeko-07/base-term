@@ -1,0 +1,4 @@
+2023-10-28 22:15:10.440857
+Beginning of the history file linked to 'base.csv' where will be registrated users, passwords, users' account numbers and registration dates.
+All activity will be related in this document (connections, registrations, password changes, account deletions... 
+Thanks for using SecPass !
